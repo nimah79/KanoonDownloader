@@ -4,7 +4,7 @@
 <h3 lang="fa" dir="rtl" align="right">نحوه‌ی استفاده:</h3>
 
 ```
-echo KanoonDownloader::downloadQuestions('13980130', '1', 'myexam');
+KanoonDownloader::downloadQuestions('13980130', '1', 'myexam');
 ```
 <p lang="fa" dir="rtl" align="right">آرگومان اوّل، تاریخ آزمون و آرگومان دوم، کد رشته (پایه) است. آرگومان سوّم، مسیر دانلود فایل‌ها است (اختیاری).</p>
 
