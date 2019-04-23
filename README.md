@@ -1,2 +1,2 @@
 # KanoonDownloader
-Simple script to download Kanoon (QalamChi) questions (in image format)
+Simple class to download Kanoon (QalamChi) questions (in image format)
